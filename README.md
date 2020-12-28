@@ -1,7 +1,7 @@
 # OrbTX9k v0.0.1 Hardware
 Kicad files for the `Orbotron 9000, version 3` (also known as `Orbotron 9001`).
 
-All original design credits for the `Orbotron 9000` to Victor Putz.
+All original design credits for the `Orbotron 9000` to [Victor Putz](https://github.com/thingotron).
 
 This fork intends to further enhance the capabilities of the `Orbotron 9001` by integrating itself into the device replacing the original `Spactec SpaceOrb 360` handheld 6-DOF controller PCB control board. 
 
