@@ -1,4 +1,4 @@
-# orb9k_3_hardware
+# Orb9k v3 Hardware
 Kicad files for the `Orbotron 9000, version 3` (also known as `Orbotron 9001`).
 
 All original design credits for the `Orbotron 9000` to Victor Putz.
